@@ -26,13 +26,13 @@ Estou em busca da minha primeira oportunidade de estágio na área de TI para ad
 
 <p align="left">
 
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:samuelvitalde.jesus@gmail.com">
 <img 
 src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white"
 />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/samuel-dos-santos-martins-353122410">
 <img 
 src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
 />
