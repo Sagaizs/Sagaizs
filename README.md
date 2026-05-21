@@ -1,4 +1,4 @@
- # 👩‍💻 Samuel dos Santos 
+ # 👨‍💻 Samuel dos Santos 
 
  **`Desenvolvedor Junior`**
 
