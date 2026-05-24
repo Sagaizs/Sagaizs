@@ -10,7 +10,7 @@ Estudante de Técnico em Informática • Gosto muito de Tecnologia • Futuro D
 
 Olá! Me chamo **Samuel dos Santos**, tenho 17 anos e sou estudante do Ensino Médio Técnico em Informática pela FIEB, em São Paulo.
 
-Sou apaixonado por tecnologia e desenvolvimento web, com foco em criar interfaces modernas e funcionais. Atualmente estudo e desenvolvo projetos utilizando HTML, CSS, JavaScript e React e Um breve conhecimento de API e SQL Server 2021.
+Sou apaixonado por tecnologia e desenvolvimento web, com foco em criar interfaces modernas e funcionais. Atualmente estudo e desenvolvo projetos utilizando HTML, CSS, JavaScript e React e Um breve conhecimento de API e SQL Server.
 
 Estou em busca da minha primeira oportunidade de estágio na área de informática para adquirir experiência prática, evoluir minhas habilidades e crescer profissionalmente como desenvolvedor.
 
