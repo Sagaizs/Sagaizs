@@ -67,4 +67,4 @@ Estou em busca da minha primeira oportunidade de estágio na área de informáti
 
 ---
 
-> 🚀 *"Transformando ideias em código."*
+> 🚀 *"Transformando alguns pensamentos em códigos."*
