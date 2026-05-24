@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedor Front-End em Formação
 
-Estudante de Técnico em Informática • Gosto muito de Tecnologia • Futuro Desenvolvedor Front-End
+Estudante de Técnico em Informática • Sou obcecado por Tecnologia • Futuro Desenvolvedor Front-End
 
 ---
 
