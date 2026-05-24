@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedor Front-End em Formação
 
-Estudante de Técnico em Informática • Apaixonado por Tecnologia • Futuro Desenvolvedor Full Stack
+Estudante de Técnico em Informática • Gosto muito de Tecnologia • Futuro Desenvolvedor Front-End
 
 ---
 
@@ -10,9 +10,9 @@ Estudante de Técnico em Informática • Apaixonado por Tecnologia • Futuro D
 
 Olá! Me chamo **Samuel dos Santos**, tenho 17 anos e sou estudante do Ensino Médio Técnico em Informática pela FIEB, em São Paulo.
 
-Sou apaixonado por tecnologia e desenvolvimento web, com foco em criar interfaces modernas, responsivas e funcionais. Atualmente estudo e desenvolvo projetos utilizando HTML, CSS, JavaScript e React.
+Sou apaixonado por tecnologia e desenvolvimento web, com foco em criar interfaces modernas e funcionais. Atualmente estudo e desenvolvo projetos utilizando HTML, CSS, JavaScript e React e Um breve conhecimento de API e SQL Server 2021.
 
-Estou em busca da minha primeira oportunidade de estágio na área de TI para adquirir experiência prática, evoluir minhas habilidades e crescer profissionalmente como desenvolvedor.
+Estou em busca da minha primeira oportunidade de estágio na área de informática para adquirir experiência prática, evoluir minhas habilidades e crescer profissionalmente como desenvolvedor.
 
 ---
 
@@ -50,9 +50,9 @@ Estou em busca da minha primeira oportunidade de estágio na área de TI para ad
 
 - ✅ Conseguir minha primeira oportunidade de estágio em TI
 - ✅ Evoluir como desenvolvedor Front-End
-- ✅ Aprender Back-End futuramente
+- ✅ Terminar de Aprender Back-End futuramente
 - ✅ Contribuir para projetos reais
-- ✅ Construir uma carreira sólida em tecnologia
+- ✅ Construir uma carreira em tecnologia
 
 ---
 
